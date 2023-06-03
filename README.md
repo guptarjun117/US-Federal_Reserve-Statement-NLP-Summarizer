@@ -3,6 +3,8 @@
 
 Refer to the Summary Excel Sheet for the final outputs and see the results and the Presentation below of the workflow.
 
+https://huggingface.co/yijiyap/finscan_gpt2_test
+
 ----
 
 ![Copy of Fin Scanners Project Presentation Slides_page-0001](https://github.com/guptarjun117/US-Federal_Reserve-Statement-NLP-Summarizer/assets/105283893/abda767e-801a-4b2f-b297-4dffd822c041)
